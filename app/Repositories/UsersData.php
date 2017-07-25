@@ -28,5 +28,6 @@ class UsersData
             return “请输入密码”;
         }
 
+        return $pwd;
     }
 }
